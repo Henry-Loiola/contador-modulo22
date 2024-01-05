@@ -1,4 +1,10 @@
-7158
+7159
+145C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlerror.h133117882010000000 0
+79C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\.gitignore133489048374191113 0
+108C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\utility-types\package.json133489016824441965 0
+150C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133489016945224153 0
+116C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\css-tree\cjs\syntax\node\Block.cjs133489016841352557 0
+109C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\expand-template\.travis.yml133489027115867710 0
 156C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gbufferedoutputstream.h133117882010000000 0
 113C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\weak-lru-cache\rollup.config.js133489016818896788 0
 110C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\htmlnano\lib\presets\max.mjs133489016941833191 0
@@ -895,11 +901,6 @@
 103C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\utility-types\LICENSE133489016798966967 0
 148C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-gio.h133117882010000000 0
 142C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133489016932038701 0
-145C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlerror.h133117882010000000 0
-108C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\utility-types\package.json133489016824441965 0
-150C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133489016945224153 0
-116C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\css-tree\cjs\syntax\node\Block.cjs133489016841352557 0
-109C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\expand-template\.travis.yml133489027115867710 0
 138C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype133117882010000000 1
 100C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\htmlnano\index.cjs133489016842921996 0
 129C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133489016946879701 0
@@ -1857,9 +1858,9 @@
 112C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\css-tree\lib\definition-syntax133489016981014796 1
 149C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-infile-zip.h133117882010000000 0
 130C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\tiffvers.h133117882010000000 0
+135C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133489016975519484 0
 124C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips133117882010000000 1
 133C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\css-select\node_modules\domutils\lib\index.d.ts.map133489016861770306 0
-135C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133489016975519484 0
 139C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133489016936437620 0
 127C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\zconf.h133117882010000000 0
 126C:\Users\henry\OneDrive\Documentos\Projetos-Henry(2)\Modulo22_Tarefa\node_modules\sharp\vendor\8.13.3\win32-x64\include\zlib.h133117882010000000 0
