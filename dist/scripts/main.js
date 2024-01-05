@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"l1XHo":[function(require,module,exports) {
+})({"eWdrD":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -226,7 +226,11 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== "undefined") {
     var hostname = getHostname();
     var port = getPort();
-    var protocol = HMR_SECURE || location.protocol == "https:" && !/localhost|127.0.0.1|0.0.0.0/.test(hostname) ? "wss" : "ws";
+    var protocol = HMR_SECURE || location.protocol == "https:" && ![
+        "localhost",
+        "127.0.0.1",
+        "0.0.0.0"
+    ].includes(hostname) ? "wss" : "ws";
     var ws;
     try {
         ws = new WebSocket(protocol + "://" + hostname + (port ? ":" + port : "") + "/");
@@ -596,6 +600,6 @@ const contaAsHoras = setInterval(function() {
     }
 }, 1000);
 
-},{}]},["l1XHo","3cYfC"], "3cYfC", "parcelRequire00fe")
+},{}]},["eWdrD","3cYfC"], "3cYfC", "parcelRequire00fe")
 
 //# sourceMappingURL=main.js.map
